@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of the occurrences at Portsmouth from a speciall hand presented to an honorable person in London. August 15.</title>
+            <author>Speciall hand.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95309</idno>
+            <idno type="STC">Wing T3095</idno>
+            <idno type="STC">Thomason E112_8</idno>
+            <idno type="STC">ESTC R20006</idno>
+            <idno type="STC">ESTC R20119</idno>
+            <idno type="EEBO-CITATION">99861724</idno>
+            <idno type="PROQUEST">99861724</idno>
+            <idno type="VID">130545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130545)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of the occurrences at Portsmouth from a speciall hand presented to an honorable person in London. August 15.</title>
+                  <author>Speciall hand.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. P. and M. S. for H. Blunden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portsmouth (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130545:1" rendition="simple:additions"/>
+            <p>A TRVE REPORT OF THE OCCVRRENCES AT <hi>PORTS MO<g ref="char:V">Ʋ</g>TH</hi> from a ſpeciall hand preſented to an Honorable perſon in <hi>London.</hi>
+            </p>
+            <p>Auguſt 15.</p>
+            <p>LONDON: <hi>Printed by</hi> T. P. <hi>and</hi> M. S. <hi>for</hi> H. Blunden. <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130545:2"/>
+            <pb n="3" facs="tcp:130545:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know you love Truth where ever you find it, and on what ſide ſoever it fals. Becauſe the Reports concerning the affai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in and about <hi>Portſmouth</hi> ſo much vary<g ref="char:punc">▪</g> I will give you the certaintie upon my knowledge: It is happily no news to tell you, that Sir <hi>William Waller,</hi> and Collonel <hi>Hurry</hi> took away the Bridge, and ſuch fortifications as Collonel <hi>Goring</hi> had made about it, on Friday night laſt about ſix of the clock 20 Troops adventured upon it, being ignorant of the ſtrength that was or might have been on Collonel <hi>Gorings</hi> ſide; but they found but eight Troopers, one or two were taken, the reſt fled to better refuge; the Colonels gunner, one <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ader,</hi> being fled from his ſervice ſometime before: I muſt tell you the taking of this Bridge, is of greater moment then moſt think for, for it poſ<g ref="char:EOLhyphen"/>ſeſſes them of the Iſland <hi>Portſley,</hi> which hath 2000 Acres of Corn now ſtanding upon it; And
+<pb n="4" facs="tcp:130545:3"/>as it prevents their enemies of ſuccours, ſo it is a ſupply to themſelves, and a re-poſſeſſing the poor Inhabitants which were bereft of all; and further it renders the taking of <hi>Portſmouth</hi> feaſable, whereof in my opinion there was no poſſibilitie (but by ſtarving it) while the Bridge and thoſe Forts were ſecured againſt them<g ref="char:punc">▪</g> they being three mile on this ſide the Town; and beſides, this hath put much mettall into the Souldiers, and it would make a faint-hearted man a Soul<g ref="char:EOLhyphen"/>dier, to ſee their ſpirits and reſolution, two, Col<g ref="char:EOLhyphen"/>lonel <hi>Hurry,</hi> and one Sir <hi>William Waller</hi> behave themſelves bravely. The County of <hi>Hampſhire</hi> is as they were not a little incenſed againſt Col<g ref="char:EOLhyphen"/>lonel <hi>Goring</hi> and the Cavaliers with him (which they call at every word Rebellion) ſo they are not a little encouraged, by this defeat againſt him; as alſo for the ſurpriſall of ſixſcore and fifteen quarters of VVheat that was gone from <hi>Fareham</hi> to relieve <hi>Portſmouth,</hi> and was ſeized upon by one Maſter <hi>Allyn</hi> of Goſper, and a few Watchmen; The Colonel was ſo vexed at it, that he would in all haſte have ſhot down Go<g ref="char:EOLhyphen"/>ſper with his Ordnance (for it is within reach) but with the Majors and others humble beſee<g ref="char:EOLhyphen"/>ching
+<pb n="5" facs="tcp:130545:3"/>him upon their knees to ſpare it for the women and childrens ſake, he did deſiſt that enterpriſe.</p>
+            <p>It is very certain that the Collonels, Cavaliers and Troopers pillaged from <hi>Portſley</hi> a thouſand beaſts and above a thouſand ſheep, and ſo refel<g ref="char:EOLhyphen"/>led the poor Inhabitants, that they left them not a bit of bread; It would grieve any one that hath the heart of a man to hear their complaints, you muſt know they were moſt mean, and li<g ref="char:EOLhyphen"/>ving upon their Stocks. But that which is worſe, (and not to be ſpoken without bluſhing) ſeven Cavaliers lay with one woman maid at once in open view, and one Trooper lay with a mans wife before his face, and while his fellow Troo<g ref="char:EOLhyphen"/>per had his piſtoll at the husbands breſt, in caſe of reſiſtance; Sure what ever they pretend, they are far enough from advancing for the King or his Cauſe, that thus practiſe: It was credibly in<g ref="char:EOLhyphen"/>formed by ſome that had been in Portſmouth in the beginning of laſt week, that the Collonel had but 200 Souldiers, and one hundred of them cannot be rightly called his own, if they had a fair opportunitie; many of them are forced One man that came to Town to ſell his Butter, was
+<pb n="6" facs="tcp:130545:4"/>made a Souldier, and thoſe that be with him at that rate, its like are not hot in the ſervice, and moſt that went in laſt Week before the gates were ſhut, were ſo ſerved: my Lord <hi>Wentworth</hi> is with Collonel <hi>Goring,</hi> and there is ſome ſuſpi<g ref="char:EOLhyphen"/>tion (not altogether unprobable) that my Lord <hi>Goring</hi> is there, however his ſoul is there we may be aſſured.</p>
+            <p>One Mr <hi>Norton,</hi> who hath a ſeat night the Bridge, carries himſelf like a gallant man, he hath ſtore of Muskettiers to ſecure his houſe, that ſtand Sentinel at the gates.</p>
+            <p>Some Trained Bands are come in, and ſome Horſe out of Hampſhire, &amp; the County is gene<g ref="char:EOLhyphen"/>rally for the Parliament, more are expected they be much incenſed by Collonel <hi>Gorings</hi> Cavaliers. Maſter <hi>Waller</hi> and Collonel <hi>Hurry</hi> have each of them a Troop of Horſe: There are ſome twen<g ref="char:EOLhyphen"/>tie Firelocks that looks like deſperate Souldiers; The Bridge is ſecured by foure peeces of Ord<g ref="char:EOLhyphen"/>nance, which were taken out of the <hi>Maria;</hi> They are making Fortifications.</p>
+            <p>On Wedneſday he made Proclamation, that all women and children that feared ſhould de<g ref="char:EOLhyphen"/>part
+<pb n="7" facs="tcp:130545:4"/>the Town by Sunday at noon. There are foure ſhips of my Lord of <hi>Warwicks</hi> lie ſo as no relief can come to the Town, nor the Town hurt them.</p>
+            <closer>
+               <signed>Yours in haſte.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
